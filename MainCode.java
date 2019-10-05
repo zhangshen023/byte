@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class MainCode {
 
     public static void main(String[] args) {
 
