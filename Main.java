@@ -1,10 +1,5 @@
-
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.Random;
-import java.util.function.IntFunction;
-import java.util.function.UnaryOperator;
-import java.util.stream.Stream;
 
 public class Main {
 
